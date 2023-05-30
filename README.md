@@ -23,7 +23,7 @@ Program to implement the Decision Tree Classifier Model for Predicting Employee 
 
 Developed by:BairavSkandanLoha
 
-RegisterNumber:212221220010
+RegisterNumber:212221230010
 ```
 import pandas as pd
 data=pd.read_csv("/content/Employee.csv")
